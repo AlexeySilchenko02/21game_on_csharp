@@ -1,0 +1,7 @@
+C:\Users\Silch\Education\RaidBosses\BlackJackLibrary\bin\Debug\BlackJackLibrary.pdb
+C:\Users\Silch\Education\RaidBosses\BlackJackLibrary\obj\Debug\BlackJackLibrary.csproj.AssemblyReference.cache
+C:\Users\Silch\Education\RaidBosses\BlackJackLibrary\obj\Debug\BlackJackLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Silch\Education\RaidBosses\BlackJackLibrary\obj\Debug\BlackJackLibrary.pdb
+C:\Users\Silch\Education\RaidBosses\BlackJackLibrary\bin\Debug\BlackJackLibrary.dll.config
+C:\Users\Silch\Education\RaidBosses\BlackJackLibrary\bin\Debug\BlackJackLibrary.dll
+C:\Users\Silch\Education\RaidBosses\BlackJackLibrary\obj\Debug\BlackJackLibrary.dll
